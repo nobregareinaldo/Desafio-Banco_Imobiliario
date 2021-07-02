@@ -1,0 +1,42 @@
+    Inicializando Desafio - Simulacoes Banco Imobiliario ...
+    Desenvolvido por Reinaldo Nobrega - https://www.linkedin.com/in/reinaldo-nobrega/ 
+
+    #########################################################################
+    Simulando turnos ...
+    ...
+    Simulacao encerrada ...
+    Calculando estatisticas ...
+
+    Foram executadas 300 simulacoes, jogados 14037 turnos e 0 partidas foram encerradas por timeout !
+
+    Vitorias por perfil de jogador:
+    -- Impulsivo ganhou 0 vezes! --
+    -- Exigente ganhou 194 vezes! --
+    -- Cauteloso ganhou 67 vezes! --
+    -- Aleatorio ganhou 39 vezes! --
+
+    *************************************************************************
+    ********************* ESTATISTICAS DE PROCESSAMENTO *********************
+    *************************************************************************
+    Quantas partidas terminam por time out (1000 rodadas) ?
+    Resposta...: 0 partidas foram encerradas por timeout !
+
+    Quantos turnos em media demora uma partida ?
+    Resposta...: Uma partida demora em media 47 turnos !
+
+    Qual a porcentagem de vitorias por comportamento de jogadores ?
+    Resposta...: A porcentagem de vitorias do perfil IMPULSIVO eh de 0% !
+    Resposta...: A porcentagem de vitorias do perfil EXIGENTE eh de 65% !
+    Resposta...: A porcentagem de vitorias do perfil CAUTELOSO eh de 22% !
+    Resposta...: A porcentagem de vitorias do perfil ALEATORIO eh de 13% !
+
+    Qual o comportamento que mais vence ?
+    Resposta...: O comportamento que mais vence eh o EXIGENTE !!!!
+    #########################################################################
+
+    RUNNING DETAILS INFO:
+    start_time (UTC) = Thu Jul  1 20:59:19 2021
+    end_time (UTC) = Thu Jul  1 20:59:20 2021
+    
+----------------------------------------------------------------------------------------------------
+    
