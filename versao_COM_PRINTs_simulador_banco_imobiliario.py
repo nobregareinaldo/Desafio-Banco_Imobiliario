@@ -183,7 +183,7 @@ def main():
                     impulsivo['posicao'] += dado
 
                     print(f"IMPULSIVO jogou o dado e tirou {dado}")
-                    print(f"A posicao do IMPULSIVO eh {impulsivo['posicao']}"
+                    print(f"A posicao do IMPULSIVO eh {impulsivo['posicao']}")
                     
                     if impulsivo['posicao'] > 20:
                         print("\nIMPULSIVO ganhou bonus!")
